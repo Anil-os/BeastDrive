@@ -13,7 +13,7 @@ const Footer = () => {
                             BEASTDRIVE
                         </h3>
                         <p className="text-gray-400 text-sm">
-                            India's ultimate survival run and adventure-drive event company.
+                            India&apos;s ultimate survival run and adventure-drive event company.
                         </p>
                         <div className="flex space-x-4">
                             <a href="https://www.instagram.com/accounts/login/?next=%2Fbeastdrive.in%2Ffollowers%2F&source=omni_redirect" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">

@@ -44,7 +44,7 @@ const events: Event[] = [
     {
         id: 3,
         name: "Coastal Fury Drive",
-        description: "Experience the thrill of driving along India's stunning coastline with beach camping and water sports.",
+        description: "Experience the thrill of driving along India&apos;s stunning coastline with beach camping and water sports.",
         date: "May 5-11, 2026",
         route: "Mumbai → Goa → Mangalore → Kochi",
         distance: "2,200 KM",

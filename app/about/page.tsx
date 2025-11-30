@@ -36,7 +36,7 @@ export default function About() {
                             </div>
                             <h3 className="text-2xl font-bold text-white mb-4">Our Mission</h3>
                             <p className="text-gray-400 leading-relaxed">
-                                To create India's most challenging and rewarding adventure-drive experiences
+                                To create India&apos;s most challenging and rewarding adventure-drive experiences
                                 that push participants beyond their limits while fostering a strong community
                                 of passionate adventurers.
                             </p>
@@ -49,7 +49,7 @@ export default function About() {
                             </div>
                             <h3 className="text-2xl font-bold text-white mb-4">Our Vision</h3>
                             <p className="text-gray-400 leading-relaxed">
-                                To become India's premier adventure-drive company, inspiring thousands to
+                                To become India&apos;s premier adventure-drive company, inspiring thousands to
                                 explore the unexplored, challenge themselves, and create lifelong memories
                                 on the road less traveled.
                             </p>
@@ -81,11 +81,11 @@ export default function About() {
                         <p>
                             BeastDrive was born from a simple idea: to create adventure experiences that
                             truly test the human spirit. What started as a small group of friends driving
-                            across challenging terrains has evolved into India's most sought-after
+                            across challenging terrains has evolved into India&apos;s most sought-after
                             adventure-drive event company.
                         </p>
                         <p>
-                            We've covered over 3,500 kilometers across some of India's most breathtaking
+                            We&apos;ve covered over 3,500 kilometers across some of India&apos;s most breathtaking
                             and challenging landscapes. From the snow-capped peaks of the Himalayas to the
                             scorching deserts of Rajasthan, from dense forests to coastal highways, every
                             BeastDrive event is meticulously planned to deliver maximum thrill while
@@ -113,7 +113,7 @@ export default function About() {
                         Join the Adventure
                     </h2>
                     <p className="text-xl text-white/90 mb-8">
-                        Be part of India's most thrilling survival-run community.
+                        Be part of India&apos;s most thrilling survival-run community.
                     </p>
                     <a
                         href="/contact"

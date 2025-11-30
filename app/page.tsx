@@ -32,7 +32,7 @@ export default function Home() {
                     >
                         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold font-display mb-6 leading-tight">
                             <span className="bg-gradient-to-r from-primary via-accent-orange to-accent-yellow bg-clip-text text-transparent">
-                                India's Ultimate
+                                India&apos;s Ultimate
                             </span>
                             <br />
                             <span className="text-white">Survival Run</span>
@@ -41,7 +41,7 @@ export default function Home() {
                             Drive — 3500 KM — 25 Cars — Make History
                         </p>
                         <p className="text-lg md:text-xl text-gray-400 mb-12 max-w-3xl mx-auto">
-                            Join India's most thrilling adventure-drive and survival-run events.
+                            Join India&apos;s most thrilling adventure-drive and survival-run events.
                             Experience endurance, thrill, and community like never before.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -97,7 +97,7 @@ export default function Home() {
             >
                 <ExampleContent
                     title="Epic Off-Road Journeys"
-                    description="Take your Mahindra Thar, Jeep, or adventure vehicle across India's most challenging terrains. From mountain passes to desert highways, experience the thrill of the open road."
+                    description="Take your Mahindra Thar, Jeep, or adventure vehicle across India&apos;s most challenging terrains. From mountain passes to desert highways, experience the thrill of the open road."
                     buttonText="View Routes"
                     buttonHref="/events"
                 />
@@ -137,7 +137,7 @@ export default function Home() {
                         Ready for the Adventure?
                     </h2>
                     <p className="text-xl text-white/90 mb-8">
-                        Don't miss out on India's most epic survival run. Limited slots available!
+                        Don&apos;t miss out on India&apos;s most epic survival run. Limited slots available!
                     </p>
                     <Button href="/contact" variant="secondary">
                         Register for Next Event

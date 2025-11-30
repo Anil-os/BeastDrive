@@ -23,7 +23,7 @@ export default function Sponsors() {
                         </span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300">
-                        Powering India's most thrilling adventure experiences
+                        Powering India&apos;s most thrilling adventure experiences
                     </p>
                 </div>
             </section>
