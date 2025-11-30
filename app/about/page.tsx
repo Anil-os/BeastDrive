@@ -92,14 +92,14 @@ export default function About() {
                             ensuring participant safety.
                         </p>
                         <p>
-                            Our events aren't just about driving—they're about endurance, camaraderie, and
+                            Our events aren&apos;t just about driving—they&apos;re about endurance, camaraderie, and
                             self-discovery. Participants face physical and mental challenges, navigate
                             through unpredictable conditions, and emerge stronger, more confident, and
                             connected to a community of fellow adventurers.
                         </p>
                         <p>
                             Today, BeastDrive is proud to have hosted over 500 participants across 15+
-                            successful events. But we're just getting started. Join us on this incredible
+                            successful events. But we&apos;re just getting started. Join us on this incredible
                             journey and become part of the BeastDrive legacy.
                         </p>
                     </div>

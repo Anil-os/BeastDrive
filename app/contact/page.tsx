@@ -64,7 +64,7 @@ export default function Contact() {
 
             // Show success toast
             setToastMessage(formType === "contact"
-                ? "Message sent successfully! We'll get back to you soon."
+                ? "Message sent successfully! We&apos;ll get back to you soon."
                 : "Registration submitted successfully! Welcome to the tribe.");
             setToastType("success");
             setShowToast(true);
@@ -146,7 +146,7 @@ export default function Contact() {
                         </span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300">
-                        Ready to start your adventure? We're here to help.
+                        Ready to start your adventure? We&apos;re here to help.
                     </p>
                 </div>
             </section>

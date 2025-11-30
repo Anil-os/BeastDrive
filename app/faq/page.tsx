@@ -33,7 +33,7 @@ const faqs: FAQItem[] = [
     {
         category: "Eligibility",
         question: "Do I need prior off-road driving experience?",
-        answer: "While prior experience is beneficial, it's not mandatory. We provide a comprehensive briefing before each event and have support vehicles throughout the journey. However, you should be comfortable with long-distance driving and basic vehicle maintenance.",
+        answer: "While prior experience is beneficial, it&apos;s not mandatory. We provide a comprehensive briefing before each event and have support vehicles throughout the journey. However, you should be comfortable with long-distance driving and basic vehicle maintenance.",
     },
     {
         category: "Vehicles",
@@ -43,12 +43,12 @@ const faqs: FAQItem[] = [
     {
         category: "Vehicles",
         question: "What if my vehicle breaks down during the event?",
-        answer: "We have support vehicles and mechanics accompanying every event. Minor repairs can be done on-site. For major breakdowns, we'll arrange towing to the nearest service center. However, participants are responsible for their vehicle repair costs.",
+        answer: "We have support vehicles and mechanics accompanying every event. Minor repairs can be done on-site. For major breakdowns, we&apos;ll arrange towing to the nearest service center. However, participants are responsible for their vehicle repair costs.",
     },
     {
         category: "Vehicles",
         question: "Do I need to modify my vehicle?",
-        answer: "Basic modifications like all-terrain tires, roof carriers, and auxiliary lights are recommended but not mandatory. We'll provide a detailed vehicle preparation checklist upon registration.",
+        answer: "Basic modifications like all-terrain tires, roof carriers, and auxiliary lights are recommended but not mandatory. We&apos;ll provide a detailed vehicle preparation checklist upon registration.",
     },
     {
         category: "Fees",
@@ -58,7 +58,7 @@ const faqs: FAQItem[] = [
     {
         category: "Fees",
         question: "Are there any additional costs?",
-        answer: "Yes, you'll need to budget for fuel (approximately ₹15,000-25,000 depending on the event), personal expenses, and any optional activities. We recommend carrying extra cash for emergencies.",
+        answer: "Yes, you&apos;ll need to budget for fuel (approximately ₹15,000-25,000 depending on the event), personal expenses, and any optional activities. We recommend carrying extra cash for emergencies.",
     },
     {
         category: "Safety",
@@ -68,7 +68,7 @@ const faqs: FAQItem[] = [
     {
         category: "Safety",
         question: "What should I bring?",
-        answer: "Essential items include valid ID, driving license, medical prescriptions, personal toiletries, warm clothing, sunscreen, and a first-aid kit. We'll provide a detailed packing list upon registration.",
+        answer: "Essential items include valid ID, driving license, medical prescriptions, personal toiletries, warm clothing, sunscreen, and a first-aid kit. We&apos;ll provide a detailed packing list upon registration.",
     },
 ];
 
