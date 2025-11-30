@@ -92,7 +92,7 @@ export default function About() {
                             ensuring participant safety.
                         </p>
                         <p>
-                            Our events aren&apos;t just about driving—they&apos;re about endurance, camaraderie, and
+                            Our events aren&apos;t just about driving-they&apos;re about endurance, camaraderie, and
                             self-discovery. Participants face physical and mental challenges, navigate
                             through unpredictable conditions, and emerge stronger, more confident, and
                             connected to a community of fellow adventurers.

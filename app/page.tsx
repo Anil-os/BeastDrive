@@ -38,7 +38,7 @@ export default function Home() {
                             <span className="text-white">Survival Run</span>
                         </h1>
                         <p className="text-xl md:text-3xl text-gray-300 mb-4 font-semibold">
-                            Drive — 3500 KM — 25 Cars — Make History
+                            Drive - 3500 KM - 25 Cars - Make History
                         </p>
                         <p className="text-lg md:text-xl text-gray-400 mb-12 max-w-3xl mx-auto">
                             Join India&apos;s most thrilling adventure-drive and survival-run events.
