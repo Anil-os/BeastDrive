@@ -3,6 +3,13 @@
 import React, { useState } from "react";
 import { FiCalendar, FiMapPin, FiDollarSign, FiClock } from "react-icons/fi";
 
+// Declare Razorpay type
+declare global {
+    interface Window {
+        Razorpay: any;
+    }
+}
+
 interface Event {
     id: number;
     name: string;
